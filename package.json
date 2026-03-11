@@ -1,0 +1,21 @@
+{
+  "name": "ct4nnptudm11032026",
+  "version": "1.0.0",
+  "description": "Bài tập chiều thứ 4 ngày 11 tháng 03 năm 2026\r TRẦN TẤN TỚI 2280603320",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToiFriendly/CT4NNPTUDM11032026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToiFriendly/CT4NNPTUDM11032026/issues"
+  },
+  "homepage": "https://github.com/ToiFriendly/CT4NNPTUDM11032026#readme"
+}
