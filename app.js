@@ -27,7 +27,7 @@ app.use('/api/v1/roles', require('./routes/roles'));
 app.use('/api/v1/products', require('./routes/products'))
 app.use('/api/v1/categories', require('./routes/categories'))
 
-mongoose.connect('mongodb://localhost:27017/NNPTUD-C4');
+mongoose.connect('mongodb://localhost:27017/CT4NNPTUDM11032026');
 mongoose.connection.on('connected', function () {
   console.log("connected");
 })
